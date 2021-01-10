@@ -31,7 +31,7 @@ const APIKeyHeader = "DeployGate-Key"
 const DefaultEndpoint = "https://deploygate.com/api"
 
 // ProjectURL is the url for this library.
-var ProjectURL = "github.com/recruit-mp/go-deploygate"
+var ProjectURL = "github.com/fnaoto/go-deploygate"
 
 // ProjectVersion is the version of this library.
 var ProjectVersion = "0.1"

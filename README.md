@@ -14,12 +14,12 @@ Usage
 -----
 Download the library into your `$GOPATH`:
 
-    $ go get github.com/recruit-mp/go-deploygate
+    $ go get github.com/fnaoto/go-deploygate
 
 Import the library into your tool:
 
 ```go
-import "github.com/recruit-mp/go-deploygate"
+import "github.com/fnaoto/go-deploygate"
 ```
 
 Examples
@@ -73,12 +73,12 @@ deleteResponse, err3 := client.DeleteAppCollaborator(d)
 ```
 
 More information can be found in the
-[DeployGate Godoc](https://godoc.org/github.com/recruit-mp/go-deploygate).
+[DeployGate Godoc](https://godoc.org/github.com/fnaoto/go-deploygate).
 
 Reference
 ----------
 
-- [terraform-provider-deploygate](https://github.com/recruit-mp/terraform-provider-deploygate)
+- [terraform-provider-deploygate](https://github.com/fnaoto/terraform-provider-deploygate)
 
 TODO
 ----
