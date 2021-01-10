@@ -1,7 +1,7 @@
 # The container definition we want to use for developing our app
 box: golang:1.7
 build:
-  base-path: /go/src/github.com/recruit-mp/go-deploygate
+  base-path: /go/src/github.com/fnaoto/go-deploygate
   steps:
     - script:
         name: setup govendor

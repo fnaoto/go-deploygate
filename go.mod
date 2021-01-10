@@ -1,4 +1,4 @@
-module github.com/recruit-mp/go-deploygate
+module github.com/fnaoto/go-deploygate
 
 go 1.15
 
